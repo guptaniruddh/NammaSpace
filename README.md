@@ -1,4 +1,4 @@
-# 🏢 NammaSpace — Hostel Room 1435 (3D Interactive Walkthrough)
+# 🏢 NammaSpace — Hostel Room (3D Interactive Walkthrough)
 **Built for IIT Bombay Techfest** | **[▶️ Launch Live 3D Demo](https://guptaniruddh.github.io/NammaSpace/)**
 
 An interactive, zero-asset first-person 3D simulation of VIT Chennai Hostel Room 1435, the 14th-floor corridor, and coastal balcony view built from scratch using **Three.js**, **HTML5 Canvas**, and the **Web Audio API**.
